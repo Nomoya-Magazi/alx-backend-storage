@@ -19,4 +19,3 @@ BEGIN
     INSERT INTO corrections (user_id, project_id, score) VALUES (p_user_id, project_id, p_score);
 END$$
 DELIMITER ;
-aii
