@@ -32,7 +32,6 @@ SET @user_bob = LAST_INSERT_ID();
 
 INSERT INTO users (name) VALUES ("Jeanne");
 SET @user_jeanne = LAST_INSERT_ID();
-
 INSERT INTO projects (name, weight) VALUES ("C is fun", 1);
 SET @project_c = LAST_INSERT_ID();
 
