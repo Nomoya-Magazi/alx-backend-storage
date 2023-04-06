@@ -12,3 +12,4 @@ UPDATE users SET email = "bob@dylan.com" WHERE email = "bob@dylan.com";
 
 SELECT "--";
 SELECT * FROM users;
+yho
