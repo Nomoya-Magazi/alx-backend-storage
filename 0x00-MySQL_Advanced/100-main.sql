@@ -7,4 +7,3 @@ CALL ComputeAverageWeightedScoreForUser((SELECT id FROM users WHERE name = "Jean
 
 SELECT "--";
 SELECT * FROM users;
-
