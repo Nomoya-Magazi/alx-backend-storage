@@ -7,4 +7,3 @@ CALL ComputeAverageWeightedScoreForUsers();
 
 SELECT "--";
 SELECT * FROM users;
-
