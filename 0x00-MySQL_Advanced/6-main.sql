@@ -15,4 +15,3 @@ SELECT "--";
 
 SELECT * FROM projects;
 SELECT * FROM corrections;
-aa
